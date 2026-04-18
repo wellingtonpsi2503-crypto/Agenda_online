@@ -3,7 +3,7 @@
 // ====================================
 
 // Cole aqui a URL do seu Google Apps Script (após fazer deploy)
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbx3zP-Zs5vGc4rf595GEHOlVlj7NgI3Vzw4duIeQJRGPjwoFRDytIaVx_CYzBbb9Ljf/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzZJ9eN3okKpEBvEygt4xKRiTAxc5YRX0J0imCfrVuobqpVZ0uL8b40Fxibmtz874-Z/exec';
 
 // ====================================
 // NÃO EDITE DAQUI PRA BAIXO
